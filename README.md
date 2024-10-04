@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly projects/tasks
 - 📫 How to reach me maryj.ortega15@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm a newbie and I'm still in the process of enhancin my skills in coding and soft skills    
+- ⚡ Fun fact: I'm a newbie and I'm still in the process of enhancing my skills in coding and soft skills    
 
 <!---
 maryjune-sys/maryjune-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
